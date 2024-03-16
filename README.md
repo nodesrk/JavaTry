@@ -13,3 +13,9 @@ Placing the credientials of database to the login portal
 Furthermore here is sql schema under college_app database
 
 ![image](https://github.com/nodesrk/JavaTry/assets/122016671/56e3df16-1653-44c1-9904-db53df6d5152)
+
+Registration:
+
+![image](https://github.com/nodesrk/JavaTry/assets/122016671/d57e6b14-1641-434f-b39b-125e1027155b)
+
+![image](https://github.com/nodesrk/JavaTry/assets/122016671/e003aa05-f34c-4c8c-8b7e-8124b0babc61)
